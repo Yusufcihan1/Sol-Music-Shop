@@ -5,7 +5,9 @@
 </p>
 
 <img src="https://solanapay.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsolanapay-logo.e34e7b7f.svg&w=256&q=75"/>
+
 ### **Welcome 👋**
+
 [TR]
 Başlık: Sol Music Shop
 Açıklama: Solana müzik marketi Phantom cüzdan aracılığıyla alışveriş yapabileceğiniz Solana Pay tabanlı bir marketplace uygulamasıdır.Alışveriş yapabilmek için cüzdanınızda   USDC bulundurmanız gerekmektedir.Her alışverişinizde sizlere NFT hediye etmekten gurur duyuyoruz 🧙‍♂️.Ayrıca her 5 alışverinizde indirim barı dolar ve bir sonraki alışverişinizde %50 indirim uygulanır.Türkiye'nin en sevilen sanatçılarının albümlerinin bulunduğu bu markete hemen uğrayın ve alışverişten sonra NFT'nizi kapın 🤓
